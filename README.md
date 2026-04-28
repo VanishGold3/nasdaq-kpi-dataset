@@ -1,8 +1,9 @@
 # NASDAQ KPI Dataset – Data Card
 
 **Assignment:** KPI Assignment-Dataset
-**Course:** Introduction to Key Performance Indicators – Koźmiński University
+**Course:** Introduction to Key Performance Indicators – Koźmiński University (Management & AI)
 **Date:** 28.04.2026
+**Student** Stanisław Wielgomas 52438
 
 ---
 
